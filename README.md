@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0073-set-matrix-zeroes) |
+| [0205-isomorphic-strings](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0541-reverse-string-ii) |
