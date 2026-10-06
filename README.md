@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0014-longest-common-prefix) |
 | [0054-spiral-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0073-set-matrix-zeroes) |
+| [0283-move-zeroes](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0541-reverse-string-ii) |
