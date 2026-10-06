@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0073-set-matrix-zeroes) |
 | [0283-move-zeroes](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0485-max-consecutive-ones) |
+| [0905-sort-array-by-parity](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Hash Table
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0844-backspace-string-compare) |
+| [0905-sort-array-by-parity](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0917-reverse-only-letters) |
 ## String
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0242-valid-anagram) |
+| [0905-sort-array-by-parity](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0905-sort-array-by-parity) |
 | [2785-sort-vowels-in-a-string](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/2785-sort-vowels-in-a-string) |
 ## Trie
 |  |
