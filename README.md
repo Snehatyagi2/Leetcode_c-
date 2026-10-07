@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0696-count-binary-substrings) |
