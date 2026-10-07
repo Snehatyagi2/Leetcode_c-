@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0485-max-consecutive-ones) |
+| [0832-flipping-an-image](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1051-height-checker) |
@@ -36,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0073-set-matrix-zeroes) |
+| [0832-flipping-an-image](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0054-spiral-matrix) |
+| [0832-flipping-an-image](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0867-transpose-matrix) |
 ## Two Pointers
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0696-count-binary-substrings) |
+| [0832-flipping-an-image](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0917-reverse-only-letters) |
@@ -117,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1122-relative-sort-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
