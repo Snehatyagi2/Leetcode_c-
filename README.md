@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0485-max-consecutive-ones) |
+| [0867-transpose-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1122-relative-sort-array) |
@@ -35,12 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
 | ------- |
