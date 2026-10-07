@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0832-flipping-an-image) |
+## Binary Search
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
