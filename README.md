@@ -141,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
