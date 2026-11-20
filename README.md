@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0696-count-binary-substrings) |
 | [0832-flipping-an-image](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0917-reverse-only-letters) |
 ## String
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0876-middle-of-the-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
