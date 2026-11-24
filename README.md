@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0566-reshape-the-matrix) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0859-buddy-strings](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0859-buddy-strings) |
 | [1122-relative-sort-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1122-relative-sort-array) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1122-relative-sort-array) |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Linked List
