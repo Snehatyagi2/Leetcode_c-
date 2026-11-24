@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1572-matrix-diagonal-sum) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0867-transpose-matrix) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0917-reverse-only-letters) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
