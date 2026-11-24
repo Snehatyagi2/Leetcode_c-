@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0283-move-zeroes) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0234-palindrome-linked-list) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0242-valid-anagram) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1122-relative-sort-array) |
 ## Divide and Conquer
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1122-relative-sort-array) |
 ## Bit Manipulation
 |  |
