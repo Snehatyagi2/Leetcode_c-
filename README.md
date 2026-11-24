@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0485-max-consecutive-ones) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1051-height-checker) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0215-kth-largest-element-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -175,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0141-linked-list-cycle) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
