@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0075-sort-colors) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0215-kth-largest-element-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0215-kth-largest-element-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
