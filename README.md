@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0086-partition-list) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0242-valid-anagram) |
@@ -319,4 +321,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0852-peak-index-in-a-mountain-array) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
