@@ -1,37 +1,18 @@
 class Solution {
 public:
     vector<int> findDisappearedNumbers(vector<int>& nums) {
+        vector<int> ans;
 
-        vector<int> missing;
-
-        sort(nums.begin(), nums.end());
-
-        // Check gaps
-        for(int i = 0; i < nums.size() - 1; i++) {
-
-            int difference = nums[i+1] - nums[i];
-
-            if(difference > 1) {
-
-                int x = nums[i] + 1;
-
-                while(x < nums[i+1]) {
-                    missing.push_back(x);
-                    x++;
-                }
-            }
+        for (int i = 0; i < nums.size(); i++) {
+            int index = abs(nums[i]) - 1;
+            nums[index] = -abs(nums[index]);
         }
 
-        // Check numbers after last element
-        for(int x = nums.back() + 1; x <= nums.size(); x++) {
-            missing.push_back(x);
+        for (int i = 0; i < nums.size(); i++) {
+            if (nums[i] > 0)
+                ans.push_back(i + 1);
         }
 
-        // Check numbers before first element
-        for(int x = 1; x < nums[0]; x++) {
-            missing.push_back(x);
-        }
-
-        return missing;
+        return ans;
     }
 };
