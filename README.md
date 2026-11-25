@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1544-make-the-string-great) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/2487-remove-nodes-from-linked-list) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0901-online-stock-span) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0622-design-circular-queue) |
+| [0901-online-stock-span](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -274,5 +277,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
