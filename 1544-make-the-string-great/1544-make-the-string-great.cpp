@@ -1,22 +1,20 @@
 class Solution {
 public:
-    std::string makeGood(std::string s) {
-        std::stack<char> stack;
+    string makeGood(string s) {
         
-        for (char c : s) {
-            if (!stack.empty() && std::abs(c - stack.top()) == 32) {
-                stack.pop();
-            } else {
-                stack.push(c);
+        string ans;
+        
+        for(int i = 0 ; i < s.size() ; i++)
+        {
+            ans.push_back(s[i]);
+            
+            while(ans.size() && (ans.back()==s[i+1]+32 || ans.back()==s[i+1]-32))
+            {
+                ans.pop_back();
+                i++;
             }
         }
         
-        std::string result;
-        while (!stack.empty()) {
-            result = stack.top() + result;
-            stack.pop();
-        }
-        
-        return result;
+        return ans;
     }
 };
