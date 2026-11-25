@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0605-can-place-flowers) |
+| [0622-design-circular-queue](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0876-middle-of-the-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
@@ -256,12 +258,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
