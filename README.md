@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0832-flipping-an-image) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0349-intersection-of-two-arrays) |
