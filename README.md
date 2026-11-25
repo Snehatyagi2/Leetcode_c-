@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0242-valid-anagram) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0739-daily-temperatures) |
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0605-can-place-flowers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
