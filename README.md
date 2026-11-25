@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0867-transpose-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0883-projection-area-of-3d-shapes) |
 | [0905-sort-array-by-parity](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0941-valid-mountain-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0867-transpose-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0883-projection-area-of-3d-shapes) |
 | [1260-shift-2d-grid](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0189-rotate-array) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0883-projection-area-of-3d-shapes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Counting Sort
 |  |
@@ -348,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0883-projection-area-of-3d-shapes](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
