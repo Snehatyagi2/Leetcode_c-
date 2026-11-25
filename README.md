@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0941-valid-mountain-array) |
 | [1051-height-checker](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1122-relative-sort-array) |
+| [1260-shift-2d-grid](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1572-matrix-diagonal-sum) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
