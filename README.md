@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0622-design-circular-queue) |
+| [0661-image-smoother](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0735-asteroid-collision) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0566-reshape-the-matrix) |
+| [0661-image-smoother](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0867-transpose-matrix) |
