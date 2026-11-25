@@ -1,33 +1,17 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-
-        int i = 0;
-        int j = s.length() - 1;
-
-        while(i < j) {
-
-            // Skip symbols and spaces from left
-            if(!isalnum(s[i])) {
-                i++;
-                continue;
-            }
-
-            // Skip symbols and spaces from right
-            if(!isalnum(s[j])) {
-                j--;
-                continue;
-            }
-
-            // Compare after converting to lowercase
-            if(tolower(s[i]) != tolower(s[j])) {
-                return false;
-            }
-
-            i++;
-            j--;
-        }
-
-        return true;
-    }
+       int start=0;
+       int end=s.size()-1;
+       while(start<=end){
+           if(!isalnum(s[start])){start++; continue;}
+           if(!isalnum(s[end])){end--;continue;}
+           if(tolower(s[start])!=tolower(s[end]))return false;
+           else{
+               start++;
+               end--;
+           }
+       }
+       return true;
+}
 };
