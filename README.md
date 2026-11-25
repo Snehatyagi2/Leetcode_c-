@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0215-kth-largest-element-in-an-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0704-binary-search) |
