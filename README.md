@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0605-can-place-flowers) |
+| [0682-baseball-game](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0766-toeplitz-matrix) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0867-transpose-matrix) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0844-backspace-string-compare) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/2487-remove-nodes-from-linked-list) |
