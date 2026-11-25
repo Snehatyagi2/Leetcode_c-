@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0073-set-matrix-zeroes) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0566-reshape-the-matrix) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Counting Sort
