@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0922-sort-array-by-parity-ii) |
+| [0925-long-pressed-name](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0925-long-pressed-name) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0925-long-pressed-name) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1544-make-the-string-great) |
 | [2785-sort-vowels-in-a-string](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/2785-sort-vowels-in-a-string) |
