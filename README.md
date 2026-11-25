@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0622-design-circular-queue) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0496-next-greater-element-i) |
 | [0859-buddy-strings](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0859-buddy-strings) |
 | [1122-relative-sort-array](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/1122-relative-sort-array) |
 ## Matrix
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0844-backspace-string-compare) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Snehatyagi2/Leetcode_c-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Floyd's Cycle Finding Algorithm
